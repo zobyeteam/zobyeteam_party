@@ -2,8 +2,6 @@
     ZOBYETEAM_PARTY
     Version : 2.0.7
     Written By : TAKZOBYE (ZOBYETEAM)
-    This system is copyrighted.
-    ( ระบบนี้ได้ทำการจดทะเบียนลิขสิทธิ์เรียบร้อย )
 ]]
 
 function ClientESX()
