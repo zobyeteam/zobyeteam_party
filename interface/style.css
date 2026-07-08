@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@400&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+	font-family: 'Prompt', sans-serif;
+}
+
+::-webkit-scrollbar {
+	display: none;
+}
+
+.v-enter-active,
+.v-leave-active {
+	transition: opacity 0.1s ease;
+}
+
+.v-enter-from,
+.v-leave-to {
+	opacity: 0;
+}
+
+.my-picker {
+	--secondary-background-color: #272626 !important;
+	--search-background-color: #333333 !important;
+	--search-focus-background-color: #333333 !important;
+	--border-color: rgba(0, 0, 0, 0) !important;
+	--accent-color: #333333 !important;
+}
